@@ -37,12 +37,13 @@
 
 <br/>
 
-## 📓 My Blog Posts
+
+# 📓 Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 
-<br />
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatoolBtoush&count_private=true&show_icons=true&theme=dark)
