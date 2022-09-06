@@ -1,7 +1,9 @@
 <h1 align="center"> 👋 Hello World 👋 </h1>
 <h2 align="center">I'm Batool💜</h2>
 
-<img align="center" alt="Batool-coding" src="https://resultpediabd.com/wp-content/uploads/2019/08/me.gif" width="500" height="320" />
+<p align="center">
+    <img  alt="Batool-coding" src="https://resultpediabd.com/wp-content/uploads/2019/08/me.gif">
+</p>
 
 <h3 align="center">I'm an aspiring full-stack web developer 💜</h3>
 
