@@ -1,15 +1,12 @@
-<h1 align="center"> 👋 Hello World 👋 </h1>
-<h2 align="center">I'm Batool💜</h2>
+<h1 align="center"> Hello World </h1>
 
-<p align="center">
+<!-- <p align="center">
     <img  alt="Batool-coding" src="https://resultpediabd.com/wp-content/uploads/2019/08/me.gif">
-</p>
+</p> -->
 
-<h3 align="center">I'm an aspiring full-stack web developer 💜</h3>
-
+<h3 align="center">An aspiring software engineer </h3>
 
 <br/>
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -18,41 +15,56 @@
 <a href="mailto:+batoolbtoush98@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Batool-gmail"/></a>
 <a href="https://batoolragayah.hashnode.dev/" target="_blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Batool-hashnode"/></a>
 
-
 <br />
-
-- ⭐ I made the career shift from electrical engineering to web development a year ago.
-- ⭐ I'm studying to be a full-stack web developer.
-- ⭐ I'm currently self-learning more about front-end.
-- ⭐ I have a passion for learning and can't get enough of new information.
-- ⭐ I enjoy writing and translating.
-
 
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![langandskills](https://skillicons.dev/icons?i=html,css,js,python,nodejs,nextjs,bootstrap,tailwindcss,django,react,vscode,docker)](https://skillicons.dev)
-
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width: 40px; margin-right: 10px; margin-bottom: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="width: 40px; margin-right: 10px; margin-bottom: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 40px; margin-right: 10px; margin-bottom: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" style="width: 40px; margin-right: 10px; margin-bottom: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" style="width: 40px; margin-right: 10px; margin-bottom: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" style="width: 40px; margin-right: 10px; margin-bottom: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" style="width: 40px; margin-right: 10px; margin-bottom: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" style="width: 40px; margin-right: 10px; margin-bottom: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="width: 40px; margin-right: 10px; margin-bottom: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" style="width: 40px; margin-right: 10px; margin-bottom: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" style="width: 40px; margin-right: 10px; margin-bottom: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" style="width: 40px; margin-right: 10px; margin-bottom: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" style="width: 40px; margin-right: 10px; margin-bottom: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original-wordmark.svg" style="width: 40px; margin-right: 10px; margin-bottom: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" style="width: 40px; margin-right: 10px; margin-bottom: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" style="width: 40px; margin-right: 10px; margin-bottom: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" style="width: 40px; margin-right: 10px; margin-bottom: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="width: 40px; margin-right: 10px; margin-bottom: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" style="width: 40px; margin-right: 10px; margin-bottom: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="width: 40px; margin-right: 10px; margin-bottom: 10px;" />
+    
+</div>
 
 <br/>
 
+<br />
 
 # 📓 Blog posts
+
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+
+<!-- BLOG-POST-LIST:START -->
+- [A Step-By-Step Guide to Building Your Own Personal Blog, Part 2](https://batoolragayah.hashnode.dev/a-step-by-step-guide-to-building-your-own-personal-blog-part-2)
+- [A Step-By-Step Guide to Building Your Own Personal Blog, Part 1](https://batoolragayah.hashnode.dev/a-step-by-step-guide-to-building-your-own-personal-blog-part-1)
+- [Sorting Algorithms: Merge Sort](https://batoolragayah.hashnode.dev/sorting-algorithms-merge-sort)
+- [Sorting Algorithms: Insertion Sort](https://batoolragayah.hashnode.dev/sorting-algorithms-insertion-sort)
+- [Introduction to Django Framework](https://batoolragayah.hashnode.dev/introduction-to-django-framework)
 <!-- BLOG-POST-LIST:END -->
 
+<br/>
 
+<br />
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatoolBtoush&count_private=true&show_icons=true&theme=dark)
-
+![Batool's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatoolBtoush&count_private=true&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BatoolBtoush&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
