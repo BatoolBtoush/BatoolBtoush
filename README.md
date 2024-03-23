@@ -52,8 +52,6 @@
 # 📓 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:START -->
 - [A Step-By-Step Guide to Building Your Own Personal Blog, Part 2](https://batoolragayah.hashnode.dev/a-step-by-step-guide-to-building-your-own-personal-blog-part-2)
 - [A Step-By-Step Guide to Building Your Own Personal Blog, Part 1](https://batoolragayah.hashnode.dev/a-step-by-step-guide-to-building-your-own-personal-blog-part-1)
 - [Sorting Algorithms: Merge Sort](https://batoolragayah.hashnode.dev/sorting-algorithms-merge-sort)
